@@ -15,7 +15,7 @@ at University of Évora, Portugal.
 - Computer programming
 
 ---
-Herein, you will find some of ==my work in progress== projects.
+Herein, you will find some of my **"work in progress"** projects.
 
 
 
