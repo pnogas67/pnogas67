@@ -8,16 +8,27 @@ output:
 
 
 
-**Welcome to my GitHub page!**
+## Welcome to my GitHub page!
 
 
-My name is Pedro Nogueira
+*Hello, I am Pedro Nogueira
 
-I am a Geologist and Professor at the Department of Geosciences
+I am a Geologist and Professor at the [Department of Geosciences](https://www.dgeo.uevora.pt/)
 at University of Évora, Portugal.
 
+### My interests include:
 
-Here you can find some of my recent projects taht relate with computers and geosciences.
+- Mineral deposits
+- Cartography
+- GIS
+- Data analysis
+- Computer programming
+
+Herein, you will find some of my projects.
+
+
+
+
 
 
 
