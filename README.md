@@ -1,13 +1,3 @@
----
-title: "My website"
-output: 
-  html_document:
-    toc: FALSE
----
-
-
-
-
 ## Welcome to my GitHub page!
 
 
