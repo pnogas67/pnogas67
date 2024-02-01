@@ -15,6 +15,19 @@ at University of Évora, Portugal.
 - Computer programming
 
 ---
+## Just about to release my new book
+
+### Spatial analisys in Geology Using R
+
+
+## Access the book in:
+[link](https://www.routledge.com/Spatial-Analysis-in-Geology-Using-R/Nogueira/p/book/9781032650326?_ga=284776681.1704758400)
+
+
+## Access the code in:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pnogas67/SpatialAnalysisinGeologyUsingR/HEAD)
+
+---
 Herein, you will find some of my **"work in progress"** projects.
 
 [Geologist Recipe's: Unearth the power of data analysis with R](https://pnogas67.github.io/Geologist-Recipes/)
