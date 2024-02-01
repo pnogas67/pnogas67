@@ -15,8 +15,8 @@ at University of Évora, Portugal.
 - Computer programming
 
 --- 
-## $${\color{red}Just about to release my new book$$
-### $${\color{blue}Spatial analisys in Geology Using R$$
+## $${\color{red}Just about to release my new book}$$
+### $${\color{blue}Spatial analisys in Geology Using R}$$
 ---
 
 Access the book in:
