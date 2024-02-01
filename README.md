@@ -15,15 +15,14 @@ at University of Évora, Portugal.
 - Computer programming
 
 --- 
-## <span style="color:green;">Just about to release my new book</span>
-### <span style="color:red;">Spatial analisys in Geology Using R</span>
+## $${\color{red}Just about to release my new book$$
+### $${\color{blue}Spatial analisys in Geology Using R$$
+---
 
-
-## Access the book in:
+Access the book in:
 [link](https://www.routledge.com/Spatial-Analysis-in-Geology-Using-R/Nogueira/p/book/9781032650326?_ga=284776681.1704758400)
 
-
-## Access the code in:
+Access the code in:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pnogas67/SpatialAnalysisinGeologyUsingR/HEAD)
 
 ---
