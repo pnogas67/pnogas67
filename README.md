@@ -14,10 +14,9 @@ at University of Évora, Portugal.
 - Data analysis
 - Computer programming
 
----
-## Just about to release my new book
-
-### Spatial analisys in Geology Using R
+--- 
+## <span style="color:green;">Just about to release my new book</span>
+### <span style="color:red;">Spatial analisys in Geology Using R</span>
 
 
 ## Access the book in:
