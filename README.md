@@ -12,7 +12,7 @@ at University of Évora, Portugal.
 - Cartography
 - GIS
 - Data analysis
-- Computer programming
+- Computer vision
 
 --- 
 ## Just about to release my new book
@@ -26,7 +26,7 @@ Access the code in:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pnogas67/SpatialAnalysisinGeologyUsingR/HEAD)
 
 ---
-Herein, you will find some of my **"work in progress"** projects.
+For those who are just looking for some R recipe's
 
 [Geologist Recipe's: Unearth the power of data analysis with R](https://pnogas67.github.io/Geologist-Recipes/)
 
