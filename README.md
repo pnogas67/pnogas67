@@ -23,7 +23,7 @@ Access the book in:
 [link](https://www.routledge.com/Spatial-Analysis-in-Geology-Using-R/Nogueira/p/book/9781032650326?_ga=284776681.1704758400)
 
 Access the code in:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pnogas67/SpatialAnalysisinGeologyUsingR/HEAD)
+[![Binder](https://github.com/pnogas67/pnogas67/blob/main/SAGR.svg)](https://mybinder.org/v2/gh/pnogas67/SpatialAnalysisinGeologyUsingR/HEAD)
 
 ---
 For those who are just looking for some R recipe's
